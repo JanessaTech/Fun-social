@@ -31,6 +31,7 @@ const Navbar = () => {
         </div>
         {/* RIGHT */}
         <div className='w-[30%] flex items-center gap-4 xl:gap-8 justify-end'>
+          
           <MobileMenu />
         </div>
     </div>
